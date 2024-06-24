@@ -1,0 +1,21 @@
+.flash-sale{
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    border: 1px solid rgba(0, 249, 207, 0.824);
+    padding: 50px;
+}
+.sold-out{
+opacity: 0,5px;
+}
+
+.product{
+    margin: left 24px;
+    float: left;
+}
+.product img {
+    width: 400px;
+}
+.clear{
+    clear: both;
+}
